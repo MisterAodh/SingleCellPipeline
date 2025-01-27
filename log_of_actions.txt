@@ -1,0 +1,1 @@
+created python venv in cd "/Users/conorisco/Library/CloudStorage/OneDrive-TrinityCollegeDublin/TCD Omics/Runs/RCSI/data and analysis/Python_pipeline/"
